@@ -1,0 +1,2 @@
+# wifidiag
+wifi diagnostics script
